@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Josué's Homepage"
+title                    : "Josue's Homepage"
 title_separator          : "-"
-name                     : &name "Josué Godeme"
-description              : &description "Where does this appear?? -personal description"
+name                     : &name "Josue Godeme"
+description              : &description "Personal Website of Josue Godeme"
 url                      : https://frejusgdm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FrejusGdm/frejusgdm.github.io"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "picWebsite.jpg"
   name             : "Josué Godeme"
-  pronouns         : "he/him"  
-  bio              : "Computer Science and Math Major  Founder @AKILLI.ai"
+  pronouns         : "He/Him"  
+  bio              : "Computer Science and Math Major  Founder @AKILLI.ai  Top Student of Benin HighSchool National Exam 2021"
   location         : "Earth"
   employer         : "Dartmouth College"
   uri              : # URL
-  email            : "josue.f.godeme.26@dartmouth.edu or josue@akilli.ai" 
+  email            : "josue@akilli.ai" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
