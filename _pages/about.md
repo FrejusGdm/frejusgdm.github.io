@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hello there, Welcome!
+## Hello there, Welcome!
 
 Hi there! I'm Josué, a sophomore at Dartmouth College with a passion for Machine Learning, Cybersecurity, and exploring the intersection of technology and making the world a better place. Currently, I'm deeply involved in applying NLP techniques to African languages, aiming to make a significant impact.
 
