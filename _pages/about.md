@@ -17,21 +17,25 @@ I'm an aspiring AI/ML researcher. My journey has taken me through various discip
 
 ## Honors
 - Davis Peace Project Grantee
-- 3 academic citations at Dartmouth College showing my academic rigor
+- Neukom Scholar
+- 3 academic citations at Dartmouth College 
 - King Scholar at Dartmouth College
 - Top Student of Benin Republic for the Baccalauréat (National Highschool diploma) out of 80,000 candidates
 
-## Education and Experience
+## Education 
+Dartmouth College, Undergraduate School of Art and Sciences – Hanover, NH
+- Bachelor of Art in Computer Science and Applied Math, Minor: Linguistics
+- Cumulative GPA: 3.76/4.00
+- 3 academic citations (...and counting)
+- Sept 2022 - June 2026
 
-### Tech Resume
+## Extracurricular Involvement:
+Residential Fellow | Undergraduate Advisor
+National Society of Black Engineers (NSBE) - Dartmouth Chapter | Secretary
+Rassias Center at Dartmouth | French Drill Instructor
+Taekwondo Club Member
+AEGIS, yearbook club Club member
 
-- **Technical Skills**: To be completed
-- **Projects**: To be completed
-
-### Academic CV
-
-- **Academic Achievements**: To be completed
-- **Extracurricular Involvement**: To be completed
 
 ## Talks and Presentations
 - Coming soon
@@ -40,13 +44,6 @@ I'm an aspiring AI/ML researcher. My journey has taken me through various discip
 ### ArXiv Publications
 -Coming Soon
 
-
-## Selected Projects
-
-Here's a showcase of my projects ranging from Machine Learning to Software Engineering and Design.
-
-- **Project Title**: To be completed
-- **Another Project**: To be completed
 
 ## Entrepreneurship and Ventures
 
