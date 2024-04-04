@@ -54,6 +54,5 @@ To be completed
 
 ## Contact
 
-I'd love to connect! Reach out to me at [josue@akilli.ai](mailto:josue@akilli.ai) or [josue.f.godeme.26@dartmouth.edu](mailto:josue.f.godeme.26@dartmouth.edu) or follow me on [LinkedIn]([linkedin-profile-link](https://www.linkedin.com/in/josue-f-godeme-58abb2196/).
-
+I'd love to connect! Reach out to me at [josue@akilli.ai](mailto:josue@akilli.ai) or [josue.f.godeme.26@dartmouth.edu](mailto:josue.f.godeme.26@dartmouth.edu) or follow me on [LinkedIn]([https://www.linkedin.com/in/josue-f-godeme-58abb2196/]
 
