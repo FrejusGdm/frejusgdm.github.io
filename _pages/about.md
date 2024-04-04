@@ -30,11 +30,11 @@ Dartmouth College, Undergraduate School of Art and Sciences – Hanover, NH
 - Sept 2022 - June 2026
 
 ## Extracurricular Involvement:
-Residential Fellow | Undergraduate Advisor
-National Society of Black Engineers (NSBE) - Dartmouth Chapter | Secretary
-Rassias Center at Dartmouth | French Drill Instructor
-Taekwondo Club Member
-AEGIS, yearbook club Club member
+- Residential Fellow | Undergraduate Advisor  
+- National Society of Black Engineers (NSBE) - Dartmouth Chapter | Secretary   
+- Rassias Center at Dartmouth | French Drill Instructor
+- Taekwondo Club Member
+- AEGIS, yearbook club Club member
 
 
 ## Talks and Presentations
